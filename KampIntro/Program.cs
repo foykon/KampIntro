@@ -38,15 +38,7 @@ namespace KampIntro
             {
                 Console.WriteLine("giriş yap butonu");
             }
-            
-
-
-
-
-            
-
-
-
+           
 
 
         }
