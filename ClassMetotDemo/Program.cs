@@ -49,7 +49,7 @@ namespace ClassMetotDemo
 
 
             Customer[] customer = new Customer[] { customer1, customer2, customer3, customer4 };
-
+            
             foreach (var Customer in customer)
             {
                 Console.WriteLine(Customer.CustomerID);
