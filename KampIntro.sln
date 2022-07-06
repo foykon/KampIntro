@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMeto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{9EEFFE04-91FA-4E81-A2FC-2C40A27DE746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{C8619177-2CEF-4618-AAE6-98C6A889E814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{C8619177-2CEF-4618-AAE6-98C6A889E814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{A0D11DBA-2700-4F74-9A6A-32B6F23F9497}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{A0D11DBA-2700-4F74-9A6A-32B6F23F9497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictonary", "MyDictonary\MyDictonary.csproj", "{79FA000E-D17E-44D2-A8FD-C12C6AA2C4EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{A0D11DBA-2700-4F74-9A6A-32B6F23F9497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0D11DBA-2700-4F74-9A6A-32B6F23F9497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0D11DBA-2700-4F74-9A6A-32B6F23F9497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79FA000E-D17E-44D2-A8FD-C12C6AA2C4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FA000E-D17E-44D2-A8FD-C12C6AA2C4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FA000E-D17E-44D2-A8FD-C12C6AA2C4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FA000E-D17E-44D2-A8FD-C12C6AA2C4EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
